@@ -1,0 +1,27 @@
+age,region,frequencies,male_read,female_read
+6 - 14,Bangkok,Daily,168272,178217
+15 - 24,Bangkok,Daily,399372,388568
+25 - 39,Bangkok,Daily,943768,1054825
+40 - 59,Bangkok,Daily,932599,934143
+60 and over,Bangkok,Daily,241798,269489
+6 - 14,Bangkok,4 - 6 days/week,96940,69225
+15 - 24,Bangkok,4 - 6 days/week,49932,50044
+25 - 39,Bangkok,4 - 6 days/week,150570,154079
+40 - 59,Bangkok,4 - 6 days/week,159777,187699
+60 and over,Bangkok,4 - 6 days/week,47049,53064
+6 - 14,Bangkok,2 - 3 days/week,33388,30259
+15 - 24,Bangkok,2 - 3 days/week,19605,16039
+25 - 39,Bangkok,2 - 3 days/week,125009,106697
+40 - 59,Bangkok,2 - 3 days/week,132823,146201
+60 and over,Bangkok,2 - 3 days/week,59253,83237
+6 - 14,Bangkok,1 day/week,704,1745
+15 - 24,Bangkok,1 day/week,1311,
+25 - 39,Bangkok,1 day/week,5348,3632
+40 - 59,Bangkok,1 day/week,13870,14959
+60 and over,Bangkok,1 day/week,10408,17437
+6 - 14,Bangkok,Occasionally,3576,
+15 - 24,Bangkok,Occasionally,2001,7669
+25 - 39,Bangkok,Occasionally,20630,19195
+40 - 59,Bangkok,Occasionally,51603,67321
+60 and over,Bangkok,Occasionally,47159,43544
+

@@ -1,27 +1,31 @@
-age,region,frequencies,male_read,female_read
-6 - 14,Bangkok,Daily,168272,178217
-15 - 24,Bangkok,Daily,399372,388568
-25 - 39,Bangkok,Daily,943768,1054825
-40 - 59,Bangkok,Daily,932599,934143
-60 and over,Bangkok,Daily,241798,269489
-6 - 14,Bangkok,4 - 6 days/week,96940,69225
-15 - 24,Bangkok,4 - 6 days/week,49932,50044
-25 - 39,Bangkok,4 - 6 days/week,150570,154079
-40 - 59,Bangkok,4 - 6 days/week,159777,187699
-60 and over,Bangkok,4 - 6 days/week,47049,53064
-6 - 14,Bangkok,2 - 3 days/week,33388,30259
-15 - 24,Bangkok,2 - 3 days/week,19605,16039
-25 - 39,Bangkok,2 - 3 days/week,125009,106697
-40 - 59,Bangkok,2 - 3 days/week,132823,146201
-60 and over,Bangkok,2 - 3 days/week,59253,83237
-6 - 14,Bangkok,1 day/week,704,1745
-15 - 24,Bangkok,1 day/week,1311,
-25 - 39,Bangkok,1 day/week,5348,3632
-40 - 59,Bangkok,1 day/week,13870,14959
-60 and over,Bangkok,1 day/week,10408,17437
-6 - 14,Bangkok,Occasionally,3576,
-15 - 24,Bangkok,Occasionally,2001,7669
-25 - 39,Bangkok,Occasionally,20630,19195
-40 - 59,Bangkok,Occasionally,51603,67321
-60 and over,Bangkok,Occasionally,47159,43544
+age,frequencies,male_read,female_read
+6 - 14,Daily,1348589,1472791
+15 - 24,Daily,2946721,3170938
+25 - 39,Daily,3938514,4384274
+40 - 59,Daily,3712558,3880933
+60 and over,Daily,966011,992115
+
+6 - 14,4 - 6 days/week,1167615,1055550
+15 - 24,4 - 6 days/week,702721,702663
+25 - 39,4 - 6 days/week,809029,890529
+40 - 59,4 - 6 days/week,906869,952481
+60 and over,4 - 6 days/week,259160,288875
+
+6 - 14,2 - 3 days/week,555536,469707
+15 - 24,2 - 3 days/week,459390,385649
+25 - 39,2 - 3 days/week,832869,757588
+40 - 59,2 - 3 days/week,1284435,1400663
+60 and over,2 - 3 days/week,605951,649582
+
+6 - 14,1 day/week,85935,67636
+15 - 24,1 day/week,53982,25693
+25 - 39,1 day/week,118106,111137
+40 - 59,1 day/week,322299,379290
+60 and over,1 day/week,221729,272406
+
+6 - 14,Occasionally,66895,53556
+15 - 24,Occasionally,167134,111592
+25 - 39,Occasionally,487452,327356
+40 - 59,Occasionally,1461044,1543181
+60 and over,Occasionally,942526,912865
 

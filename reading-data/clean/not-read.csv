@@ -1,0 +1,102 @@
+age,reason,amount
+6 - 14,illiterate,63894
+15 - 24,illiterate,17415
+25 - 39,illiterate,56005
+40 - 59,illiterate,98657
+60 and over,illiterate,215758
+
+6 - 14,poor reading,33522
+15 - 24,poor reading,11243
+25 - 39,poor reading,16616
+40 - 59,poor reading,58686
+60 and over,poor reading,57485
+
+6 - 14,lack of money,8639
+15 - 24,lack of money,7518
+25 - 39,lack of money,7360
+40 - 59,lack of money,12625
+60 and over,lack of money,6840
+
+6 - 14,expensive media,9656
+15 - 24,expensive media,5459
+25 - 39,expensive media,4517
+40 - 59,expensive media,13778
+60 and over,expensive media,4896
+
+6 - 14,media hard to find,7022
+15 - 24,media hard to find,6692
+25 - 39,media hard to find,12514
+40 - 59,media hard to find,11533
+60 and over,media hard to find,2796
+
+6 - 14,media not in required language,5059
+15 - 24,media not in required language,14819
+25 - 39,media not in required language,15575
+40 - 59,media not in required language,13599
+60 and over,media not in required language,4146
+
+6 - 14,disinterested in reading,25957
+15 - 24,disinterested in reading,55178
+25 - 39,disinterested in reading,132790
+40 - 59,disinterested in reading,278113
+60 and over,disinterested in reading,146121
+
+6 - 14,lack of time,3490
+15 - 24,lack of time,44788
+25 - 39,lack of time,113922
+40 - 59,lack of time,247209
+60 and over,lack of time,68421
+
+6 - 14,poor eyesight,224
+15 - 24,poor eyesight,814
+25 - 39,poor eyesight,5319
+40 - 59,poor eyesight,95040
+60 and over,poor eyesight,319357
+
+6 - 14,poor health,1157
+15 - 24,poor health,3346
+25 - 39,poor health,8178
+40 - 59,poor health,22725
+60 and over,poor health,74473
+
+6 - 14,listen radio,
+15 - 24,listen radio,430
+25 - 39,listen radio,3859
+40 - 59,listen radio,15380
+60 and over,listen radio,21839
+
+6 - 14,watch TV,40465
+15 - 24,watch TV,34369
+25 - 39,watch TV,103093
+40 - 59,watch TV,282773
+60 and over,watch TV,245105
+
+6 - 14,Game addiction,12525
+15 - 24,Game addiction,1678
+25 - 39,Game addiction,1462
+40 - 59,Game addiction,
+60 and over,Game addiction,
+
+6 - 14,prefer internet,1152
+15 - 24,prefer internet,
+25 - 39,prefer internet,
+40 - 59,prefer internet,
+60 and over,prefer internet,
+
+6 - 14,disability,6920
+15 - 24,disability,6521
+25 - 39,disability,10975
+40 - 59,disability,12639
+60 and over,disability,14925
+
+6 - 14,other,1539
+15 - 24,other,367
+25 - 39,other,2092
+40 - 59,other,1213
+60 and over,other,3189
+
+6 - 14,unknown,
+15 - 24,unknown,222
+25 - 39,unknown,1525
+40 - 59,unknown,1831
+60 and over,unknown,659
